@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CLickGarden
+comment0.text=\r\ncreate\ a\ garden\ with\ each\ flower\ obj\ in\ an\ array\r\nwe\ will\ click\ on\ flower\ and\ make\ it\ grow\r\n\r\n\ @author\ (Rayha)\r\n\ @version\ (pi\ day)\r\n
+comment1.params=
+comment1.target=CLickGarden()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ CLickGarden\r\n
+numComments=2
