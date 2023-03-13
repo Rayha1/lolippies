@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Flower
+comment0.text=\r\n\ flower\ support\ class\r\n\ creates\ a\ flower\ of\ a\ size\ and\ colour\r\n\ it\ can\ grow\r\n\r\n\ @author\ (Rayha)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=x\ y\ size\ stem\ col
+comment1.target=Flower(double,\ double,\ int,\ int,\ java.awt.Color)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Flower\r\n
+comment2.params=
+comment2.target=void\ setLeft()
+comment2.text=\r\n\ set\ left\r\n
+comment3.params=
+comment3.target=void\ setTop()
+comment3.text=\r\n\ set\ top\r\n
+comment4.params=
+comment4.target=void\ setBottom()
+comment4.text=\r\n\ set\ bottom\r\n
+comment5.params=
+comment5.target=void\ draw()
+comment5.text=\r\n\ draw\ flower\ in\ the\ canvas\r\n
+comment6.params=
+comment6.target=void\ erase()
+comment6.text=\r\n\ erase\ a\ rectangle\ around\ the\ current\ isntance\r\n
+comment7.params=
+comment7.target=void\ grow()
+comment7.text=\r\n\ make\ flower\ grow\r\n
+numComments=8
